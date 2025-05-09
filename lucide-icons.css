@@ -1,0 +1,559 @@
+/** @format */
+
+@import url('https://cdn.jsdelivr.net/npm/lucide-static@latest/font/lucide.min.css');
+.material-icons {
+	font-family: "lucide";
+	font-weight: 400;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	font-style: normal;
+	font-variant: normal;
+	text-rendering: auto;
+	line-height: 1;
+	text-align: center;
+	width: 1.25em;
+}
+
+.material-icons.picture_in_picture_alt:before {
+	font-family: "Material Icons";
+}
+
+.material-icons.airplay:before {
+	content: "\e039";
+}
+
+.material-icons.replay:before {
+	content: "\e14c";
+}
+
+.material-icons.menu:before {
+	content: "\e119";
+}
+
+.material-icons.groups:before {
+	content: "\e473";
+}
+
+.material-icons.sync_disabled:before {
+	content: "\e49d";
+}
+
+.material-icons.sync:before {
+	content: "\e149";
+}
+
+.material-icons.cast:before {
+	content: "\e06a";
+}
+
+.material-icons.search:before {
+	content: "\e155";
+}
+
+.material-icons.home:before {
+	content: "\e0f9";
+}
+
+.material-icons.folder:before {
+	content: "\e0db";
+}
+
+.material-icons.video_library:before {
+	content: "\e2e2";
+}
+
+.material-icons.video_settings:before {
+	content: "\e608";
+}
+
+.material-icons.meeting_room:before {
+	content: "\e3da";
+}
+
+.material-icons.update:before {
+	content: "\e1f5";
+}
+
+.material-icons.library_music:before {
+	content: "\e2e0";
+}
+
+.material-icons.tv:before {
+	content: "\e195";
+}
+
+.material-icons.exit_to_app:before {
+	content: "\e112";
+}
+
+.material-icons.play_arrow:before {
+	content: "\e140";
+}
+
+.material-icons.get_app:before {
+	content: "\e45a";
+}
+
+.material-icons.theaters:before {
+	content: "\e0d4";
+}
+
+.material-icons.explore:before {
+	content: "\e09f";
+}
+
+.material-icons.shuffle:before {
+	content: "\e162";
+}
+
+.material-icons.delete:before {
+	content: "\e18e";
+}
+
+.material-icons.stop:before {
+	content: "\e16b";
+}
+
+.material-icons.favorite:before {
+	content: "\e0f6";
+}
+
+.material-icons.call_split:before {
+	content: "\e445";
+}
+
+.material-icons.keyboard_arrow_left:before,
+.material-icons.arrow_back:before {
+	content: "\e072";
+}
+
+.material-icons.notifications::before {
+	content: "\e05d";
+}
+
+.material-icons.notifications_active:before {
+	content: "\e224";
+}
+
+.material-icons.check:before {
+	content: "\e070";
+}
+
+.material-icons.more_vert:before {
+	content: "\e0bb";
+}
+
+.material-icons.dashboard:before {
+	content: "\e1c1";
+}
+
+.material-icons.edit:before,
+.material-icons.mode_edit:before {
+	content: "\e1f9";
+}
+
+.material-icons.settings:before {
+	content: "\e158";
+}
+
+.material-icons.people:before {
+	content: "\e1a4";
+}
+
+.material-icons.assessment:before {
+	content: "\e2a3";
+}
+
+.material-icons.live_tv:before {
+	content: "\e5f1";
+}
+
+.material-icons.dvr:before {
+	content: "\e4d0";
+}
+
+.material-icons.person:before {
+	content: "\e19f";
+}
+
+.material-icons.play_circle_filled:before {
+	content: "\e085";
+}
+
+.material-icons.closed_caption:before {
+	content: "\e3a8";
+}
+
+.material-icons.tap_and_play:before {
+	content: "\e3c8";
+}
+
+.material-icons.devices_other:before,
+.material-icons.devices:before {
+	content: "\e3a6";
+}
+
+.material-icons.input:before {
+	content: "\e111";
+}
+
+.material-icons.cloud:before {
+	content: "\e08c";
+}
+
+.material-icons.vpn_key:before {
+	content: "\e103";
+}
+
+.material-icons.bug_report:before {
+	content: "\e20c";
+}
+
+.material-icons.shopping_cart:before {
+	content: "\e160";
+}
+
+.material-icons.schedule:before {
+	content: "\e08b";
+}
+
+.material-icons.folder_open:before {
+	content: "\e247";
+}
+
+.material-icons.keyboard_arrow_down:before,
+.material-icons.expand_more:before {
+	content: "\e071";
+}
+
+.material-icons.keyboard_arrow_up:before {
+	content: "\e074";
+}
+
+.material-icons.add:before {
+	content: "\e141";
+}
+
+.material-icons.extension:before {
+	content: "\e29c";
+}
+
+.material-icons.open_in_new:before {
+	content: "\e0bd";
+}
+
+.material-icons.view_comfy:before {
+	content: "\e207";
+}
+
+.material-icons.filter_list:before {
+	content: "\e465";
+}
+
+.material-icons.sort_by_alpha:before {
+	content: "\e41a";
+}
+
+.material-icons.keyboard_arrow_right:before,
+.material-icons.arrow_forward:before {
+	content: "\e073";
+}
+
+.material-icons.chevron_left:before {
+	content: "\e072";
+}
+
+.material-icons.chevron_right:before {
+	content: "\e073";
+}
+
+.material-icons.image:before {
+	content: "\e0fa";
+}
+
+.material-icons.refresh:before {
+	content: "\e14d";
+}
+
+.material-icons.playlist_add:before {
+	content: "\e23f";
+}
+
+.material-icons.skip_previous:before {
+	content: "\e163";
+}
+
+.material-icons.fast_rewind:before {
+	content: "\e14b";
+}
+
+.material-icons.fast_forward:before {
+	content: "\e0c1";
+}
+
+.material-icons.audiotrack:before {
+	content: "\e34e";
+}
+
+.material-icons.fiber_manual_record:before {
+	content: "\e07a";
+}
+
+.material-icons.fullscreen:before {
+	content: "\e116";
+}
+
+.material-icons.volume_off:before {
+	content: "\e62b";
+}
+
+.material-icons.volume_up:before {
+	content: "\e1ab";
+}
+
+.material-icons.star:before {
+	content: "\e17a";
+}
+
+.material-icons.message::before {
+	content: "\e57a";
+}
+
+.material-icons.add_circle::before {
+	content: "\e086";
+}
+
+.sectionTitle + .material-icons.chevron_right {
+	margin-left: 1em;
+}
+
+.material-icons.pause::before {
+	content: "\e132";
+}
+
+.material-icons.skip_next::before {
+	content: "\e164";
+}
+
+.material-icons.repeat::before {
+	content: "\e14a";
+}
+
+.material-icons.repeat_one::before {
+	content: "\e1fd";
+}
+
+.material-icons.drag_handle::before {
+	content: "\e0ee";
+}
+
+.material-icons.save::before {
+	content: "\e151";
+}
+
+.material-icons.remove_circle_outline::before {
+	content: "\e083";
+}
+
+.material-icons.forward_30::before {
+	content: "\e14d";
+}
+
+.material-icons.replay_10::before {
+	content: "\e14c";
+}
+
+.material-icons.pause_circle_filled::before {
+	content: "\e084";
+}
+
+.material-icons.file_download::before {
+	content: "\e0b6";
+}
+
+.material-icons.content_copy::before {
+	content: "\e0a2";
+}
+
+.material-icons.info::before {
+	content: "\e0ff";
+}
+
+.material-icons.album::before {
+	content: "\e499";
+}
+
+.material-icons.notifications_off:before {
+	content: "\e05e";
+}
+
+.selectArrowContainer {
+	height: 1.5em;
+	overflow: hidden;
+	margin-top: 1.9em;
+	margin-right: 0.2em;
+}
+
+.selectArrow {
+	margin-top: 0 !important;
+	font-size: 1.5em;
+}
+
+.material-icons.close:before {
+	content: "\e1b2";
+}
+
+.sectionTitle + .material-icons.chevron_right:before {
+	content: "\e073";
+}
+
+.material-icons.fullscreen_exit:before {
+	content: "\e11e";
+}
+
+.material-icons.pause_circle_outline:before {
+	content: "\e084";
+}
+
+.material-icons.play_circle_outline:before {
+	content: "\e085";
+}
+
+#itemDetailPage .selectArrowContainer {
+	margin-top: 0 !important;
+}
+
+.material-icons.wifi::before {
+	content: "\e1ae";
+}
+
+.material-icons.info_outline:before {
+	content: "\e0ff";
+}
+
+.material-icons.cloud_download:before {
+	content: "\e08d";
+}
+
+.lnkQuickConnectPreferences em {
+	font-family: "Material Icons";
+}
+
+.material-icons.call_merge:before {
+	content: "\e444";
+}
+
+.material-icons.check_box:before {
+	content: "\e55e";
+}
+
+.material-icons.check_box_outline_blank:before {
+	content: "\e16b";
+}
+
+.listItemIcon {
+	padding: 0.25em !important;
+	height: -webkit-fit-content !important;
+	height: -moz-fit-content !important;
+	height: fit-content !important;
+	border-radius: 0 !important;
+}
+
+.material-icons.photo:before {
+	content: "\e0fa";
+}
+
+.material-icons.arrow_upward::before {
+	content: "\e04e";
+	margin-left: 0.2em;
+}
+
+.material-icons.arrow_downward::before {
+	content: "\e046";
+	margin-left: 0.2em;
+}
+
+.material-icons.do_not_disturb:before {
+	content: "\e055";
+}
+
+.material-icons.lock:before {
+	content: "\e10f";
+}
+
+.material-icons.clear_all:before {
+	content: "\e5f9";
+}
+
+.material-icons.library_books:before {
+	content: "\e106";
+}
+
+.material-icons.share:before {
+	content: "\e159";
+}
+
+.material-icons.check_circle_outline:before {
+	content: "\e226";
+}
+
+.material-icons.cancel:before {
+	content: "\e088";
+}
+
+.material-icons.queue_music:before {
+	content: "\e2e0";
+}
+
+.material-icons.music_note:before {
+	content: "\e126";
+}
+
+.osdMediaStatus .material-icons.animate.autorenew {
+	margin-right: 5px;
+}
+
+.material-icons.autorenew:before {
+	content: "\e149";
+}
+
+.material-icons.computer:before {
+	content: "\e1cd";
+}
+
+.material-icons.smartphone:before {
+	content: "\e167";
+}
+
+.material-icons.remove_circle:before {
+	content: "\e083";
+}
+
+.material-icons.keyboard:before {
+	content: "\e284";
+}
+
+.material-icons.undo:before {
+	content: "\e19b";
+}
+
+.material-icons.redo:before {
+	content: "\e147";
+}
+
+.material-icons.view_list:before {
+	content: "\e1d9";
+}
+
+.material-icons.movie:before {
+	content: "\e29b";
+}
+
+.material-icons.videocam:before {
+	content: "\e1a5";
+}
+
+.material-icons.open_in_browser:before {
+	content: "\e202";
+}
